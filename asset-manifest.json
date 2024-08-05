@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetching-Data-From-API-using-React/static/css/main.6762ff2f.css",
+    "main.js": "/Fetching-Data-From-API-using-React/static/js/main.644ca70c.js",
+    "index.html": "/Fetching-Data-From-API-using-React/index.html",
+    "main.6762ff2f.css.map": "/Fetching-Data-From-API-using-React/static/css/main.6762ff2f.css.map",
+    "main.644ca70c.js.map": "/Fetching-Data-From-API-using-React/static/js/main.644ca70c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6762ff2f.css",
+    "static/js/main.644ca70c.js"
+  ]
+}
