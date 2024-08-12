@@ -5,6 +5,9 @@ This is a simple product list application built using React. The application fet
 ## Live Demo
 You can view the live demo of the application [here](https://pk1331.github.io/Fetching-Data-From-API-using-React/)
 
+![markuphero-brTQnqH6aQI1wF4cS0xu](https://github.com/user-attachments/assets/e402d2e2-ec4f-4313-b168-287b247a7dd0)
+
+
 ## Features
 
 - Fetches product data from a fake store API
